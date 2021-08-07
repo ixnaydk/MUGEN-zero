@@ -1,0 +1,32 @@
+;--------------------------|
+; Arquivo DEF - Zero SvC   |
+; Criado por Ixnaydk       |
+;--------------------------|
+
+[Info]
+name ="Ixnaydk Zero SvC"
+displayname ="Zero"
+author ="Ixnaydk"
+pal.defaults =1,2,3,4,5,6,7
+versiondate=23/12/2007
+mugenversion=
+
+[Files]
+cmd =zero.cmd
+cns =zero.cns
+st =zero.cns
+stcommon =common1.cns
+sprite =zero.sff
+anim =zero.air
+sound =zero.snd
+pal1=zero.act
+pal2=zero2.act
+pal3=zero3.act
+pal4=zero4.act
+pal5=zero5.act
+pal6=zero6.act
+pal7=zero7.act
+
+[Arcade]
+intro.storyboard=
+ending.storyboard=

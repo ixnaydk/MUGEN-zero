@@ -1,0 +1,100 @@
+				  Zero v2.0
+				  """""""""
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Nome - Zero
+Jogo - SNK vs Capcom
+Versão - v2.0
+Autor - Ixnaydk
+Email - ixnaydk@hotmail.com
+Site - www.paodemugen.com.br
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Novidades da versão v2.0
+	- SFF Realinhado
+	- AIR Refeito
+	- Animações contra Athena e Red Arremer adicionadas
+	- Cyber Elfs Reprogramados
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Novidades da Versão de Lançamento
+	- Interatividade Vs Owl (Intro e Alguns Golpes)
+	- Interatividade Com Muitos Outros Personagens do SvC
+	- Intro vs Rambo (por Cavaleiro Negro)
+	- 22 Especiais
+	- 7 Supers
+	- 2 Exceeds
+	- Z Rush Combos
+	- Ultimate Saber Tem Finalizações Diferentes
+	- Cyber Elfs
+	- Contra Ataque (Z Counter)
+	- Intro Matando o Megaman :P
+	- Power Charge
+	- Golpes do Megaman Zero para GBA
+	- Muitos Golpes Secretos 
+	- Ai
+
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Golpes
+
+-Especiais
+	- Upper - x+y
+	- Tensou Buster Shot - a+b
+	- Z Rush - a+x
+	  * Continuação - Ver "Z Rush Combos"
+	- Z Counter - Aperte b+y Enquanto Defende
+	- Triple Saber - D,DB,B,x
+	- Shield Boomerang - D,DB,B,a ou D,DB,B,b
+	- Buster Shot - D,DF,F,x
+	- Charge Buster Shot - D,DF,F,y
+	- Shoryuken - F,D,DF,x
+	- Laser Shoryuken - F,D,DF,y
+	- Triple Rod - F,D,DF,a
+	- Charge Triple Rod - F,D,DF,b
+	- Zed Saber - D,DF,F,a
+	- Charge Zed Saber - D,DF,F,b
+	- Cyber Elf (Health) - B,F,x
+	- Cyber Elf (Atirador) - B,F,y
+	- Cyber Elf (Sugador) - B,F,a
+	- Cyber Elf (Robo) - B,F,b
+	- Cyber Elf (Bakudan Secchi) - D,U,b
+	- Tenkuuha - D,DF,F,x+y
+	- Sengatotsu - F,F,x/y
+	- Teleport Kohau Zuki - F,F,a/b
+	
+-Supers
+	- Spinal Shot - D,DF,F,D,DF,F,x
+	- Charge Spinal Shot - D,DF,F,D,DF,F,y
+	- Ultimate Saber (Dash) - D,DB,B,D,DB,B,a
+	- Ultimate Saber (Slide) - D,DB,B,D,DB,B,b
+	- Triple Shot - D,DF,F,D,DF,F,x+y
+	- Shin Laser Shoryuken - D,DB,B,D,DB,B,x
+	  * Air Spinal Shot - Aperte "x" Quando Acertar o Terceiro Golpe
+	- Clone - D,DB,B,D,DB,B,y
+
+-Exceed
+	- Alkaline Cannon - B,DB,D,DF,F,D,DF,F,b+x
+	- Final Explosion - B,DB,D,DF,F,D,DF,F,a+y
+	  * Continuação 1 - Aperte "a" Quando Acertar o Inimigo
+	  * Continuação 2 - Aperte "b" Quando Acertar o Inimigo 
+
+-Z Rush Combos
+	- DFC Agression - x,a,x
+	- Falling Trio - b,b,b
+	- Lost Soul Sword Combo - x,x,y,a,b,y
+	
+"""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
+Agradecimentos
+Midnight Spirit - Pela grande ajuda de sempre
+Jaguarhx - Pelas ótimas idéias e tambem por testar ele
+Ribeiro - Pelas idéias de fazer os ataques do MMZ2 e por me falar vários nomes de golpes
+GCNMario - Valeu por me ajudar com o Tensou Buster Shot, thanks
+Chuck - Valeu por ripar os sons
+Trial Force - Sempre me incentivando :P
+Androide - Valeu por ajudar com o código pro inimigo virar robo, gracias
+Wynn - Por ter me mandado os sprites que eu não tinha, gracias
+Shuichi - Pelo código de limitar os Cyber Elfs
+John McEnroe - Por testar o Zero e pela zona de sempre :P
+Dee Jack - Por testar o Zero e pela zona de sempre² :P
+Phantom of the Server - Valeu pela Small e Big Portrait e por testar ele
+Cavaleiro Negro - Valeu por sempre achar uma penca de bugs  
+A todos que eu esqueci, a todos que pegaram o char e, principalmente, a todos que conseguiram o beta sem eu saber :P
